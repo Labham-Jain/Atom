@@ -1,0 +1,6 @@
+wikipedia
+SpeechRecognition
+pyttsx3
+flask
+sqlite3
+pygame
